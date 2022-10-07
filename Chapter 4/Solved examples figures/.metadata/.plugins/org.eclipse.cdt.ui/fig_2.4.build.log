@@ -1,0 +1,7 @@
+21:32:27 **** Incremental Build of configuration Debug for project fig_2.4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o fig_2.4_.o "..\\fig_2.4_.c" 
+gcc -o fig_2.4.exe fig_2.4_.o 
+
+21:32:28 Build Finished. 0 errors, 0 warnings. (took 594ms)
+

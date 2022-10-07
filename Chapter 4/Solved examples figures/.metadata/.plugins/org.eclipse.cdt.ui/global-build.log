@@ -1,0 +1,5 @@
+01:00:40 **** Incremental Build of configuration Debug for project fig_4.5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o fig_4.5_.o "..\\fig_4.5_.c" 
+gcc -o fig_4.5.exe fig_4.5_.o 
+Info: Nothing to build for fig_4.5

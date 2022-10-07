@@ -1,0 +1,16 @@
+// fig 4.5
+// write a code to sum the even numbers from 2 to 100
+
+#include <stdio.h>
+
+int main (void)
+{
+	unsigned int number;
+	unsigned int sum;
+
+	for (number = 2, sum = 0 ; number <= 100; sum += number, number+=2);
+
+	printf ("the sum is %u", sum);
+}
+
+
